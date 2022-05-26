@@ -33,11 +33,11 @@ global.footer = 'Prof' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.youtube = 'https://youtube.com/channel/UC1ed4h-ZksGPWB13-ctZQCg'
 global.ig = 'https://www.instagram.com/herex_pandowo_limo/'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.mygc = 'https://chat.whatsapp.com/JTIBubEXsBAFMocWJSXyHK'
+global.myweb = 'https://s.id/RiyA'
+global.email = 'herexpandowolimo@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
