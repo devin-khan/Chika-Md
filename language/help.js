@@ -22,6 +22,7 @@ exports.list = (pushname) => {
 exports.allmenu = (prefix, pushname, botname, time, salam) => {
 return`  _Selamat ${salam} kak ${pushname}_
 
+  *Selamat datang di Bot Herex_Pandowo_Limo*
   *⏰ Time Server : ${time}*
   *📚 List Menu : ${botname}*
 
@@ -953,14 +954,6 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* Herex_Pandawa_Limo
 `
 }
