@@ -28,13 +28,13 @@ global.ownernomer = '6281326977165' //ubah jadi nomor mu, note tanda ' gausah di
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Herex' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Herex Pandowo 5' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'Herex_Pandowo_Limo' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Prof' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
+global.ig = 'https://www.instagram.com/herex_pandowo_limo/'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/RiyAPIs'
 global.email = 'riychdwaynee@gmail.com'
